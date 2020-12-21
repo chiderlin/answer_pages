@@ -2,13 +2,37 @@
 website: https://chiderlin.github.io/answer_pages/
 
 
-You can use the [editor on GitHub](https://github.com/chiderlin/test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 兩百字內的個人簡介
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
+### 為什麼想成為工程師 ( 請以自我期許帶入：前端、後端、或全端工程師 )
+
+
+
+### 為了成為工程師，曾經做過什麼努力？
+
+
+
+### 對於工程師的職業想像是什麼？
+
+
+
+### 如果參與這個計畫，會怎麼安排學習時間？
+
+
+
+### 如果參與這個計畫，預期會碰到什麼困難？你打算怎麼解決它？
+
+
+
+### 想要對我們說的事情？
+
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -27,13 +51,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chiderlin/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
