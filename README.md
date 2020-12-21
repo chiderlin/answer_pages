@@ -2,7 +2,7 @@
 website: https://chiderlin.github.io/answer_pages/
 
 
-
+![https://i.ytimg.com/vi/yzDtxMEVVj4/maxresdefault.jpg](src)
 
 ### 兩百字內的個人簡介
   應屆畢業於台北大學金融與合作經營系進修部，於高職時便開始半工半讀，到目前為止累積幾年工作經驗，這些工作經驗讓自己提早體驗職場生活，學習到以正確的心態面對工作。工作上認真負責、個性細心、喜歡嘗試挑戰新事物。
@@ -66,5 +66,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
