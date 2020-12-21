@@ -1,6 +1,8 @@
 
 website: https://chiderlin.github.io/answer_pages/
 
+[Notion - Python筆記](https://www.notion.so/Python-61ec7aa46808495bb36ada668470e567)  \
+[Notion - 工作筆記](https://www.notion.so/a37409d71bb14a9db9940c2b533b6c98)
 
 
 ## 兩百字內的個人簡介
